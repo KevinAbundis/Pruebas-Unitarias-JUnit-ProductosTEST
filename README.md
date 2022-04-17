@@ -6,13 +6,13 @@
 
 ![](images/carpeta2.png)
 
-**Clase Producto (Class)**
+**Clase Producto (class)**
 
 ![](images/claseproducto1.png)
 
 ![](images/claseproducto2.png)
 
-**Repositorio Producto (Interface)**
+**Repositorio Producto (interface)**
 
 ![](images/repositorioproducto.png)
 
